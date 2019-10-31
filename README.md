@@ -5,3 +5,6 @@ Currently, it includes one MNIST feedforward and one MNIST autoencoder example -
 
 You can download the MNIST data at:
 http://yann.lecun.com/exdb/mnist/
+
+# Support Me
+If you want even more examples with great explanations, you can buy my book at https://www.packtpub.com/au/big-data-and-business-intelligence/hands-deep-learning-go
